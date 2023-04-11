@@ -1,16 +1,4 @@
 # car_rental_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![cr1](https://user-images.githubusercontent.com/90784719/230890565-2ac2fd79-6019-48f9-a147-4dff0015070a.jpg)
+![cr3](https://user-images.githubusercontent.com/90784719/231122860-a21960c1-7507-46c7-ab2b-e5c8e3f91c81.jpg)
